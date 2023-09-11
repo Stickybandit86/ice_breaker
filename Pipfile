@@ -13,6 +13,7 @@ google-search-results = "*"
 tweepy = "*"
 flask = "*"
 openapi-schema-pydantic = "*"
+pydantic = "*"
 
 [dev-packages]
 ipykernel = "*"
